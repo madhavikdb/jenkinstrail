@@ -1,3 +1,3 @@
 # jenkinstrail
 new push then trigger
-trigger
+trigger edited
